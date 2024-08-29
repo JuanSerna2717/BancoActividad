@@ -1,6 +1,6 @@
 {
-    "banco": "Banco de Springfield",
-    "sucursal": "Springfield, IL",    
+    "banco": "Banco de la Ciudadela",
+    "sucursal": "Ciuadaela, RM",    
     "titular": "Juan José Serna",
     "nro_cuenta": "279283253",    
     "saldo": [ { "moneda": "USD", "monto": "∞" }, { "moneda": "EUR", "monto": "∞"} ],
