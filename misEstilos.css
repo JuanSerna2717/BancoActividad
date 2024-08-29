@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'Get Schwifty';
+    src: url('fonts/GetSchwifty.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    text-align: center;
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(38,0,74,1) 65%);;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 40%;
+    margin: 0 auto;
+}
+
+.logo img {
+    height: 180px;
+    width: 180px;
+}
+
+.saldo {
+    font-size: large;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+.saldo p {    
+    margin: 1rem;
+}
+
+.saldo img {
+    height: 35px;
+    border: 2px solid white;
+    border-radius: 50%;
+    vertical-align: middle;
+}
+
+.fila {
+    display: inline-block;
+}

@@ -1,0 +1,9 @@
+{
+    "banco": "Banco de Springfield",
+    "sucursal": "Springfield, IL",    
+    "titular": "Juan José Serna",
+    "nro_cuenta": "279283253",    
+    "saldo": [ { "moneda": "USD", "monto": "∞" }, { "moneda": "EUR", "monto": "∞"} ],
+    "cbu": "03981271719293192",
+    "abierto": "03/27/2023"
+}
